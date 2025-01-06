@@ -1,21 +1,21 @@
-# Hand Tracking Module
+# 🖐️ Hand Tracking Module
 
-This project demonstrates how to build a hand tracking module using OpenCV and MediaPipe. It provides a Python class for detecting hands, extracting landmark positions, and visualizing the results on a video feed.
-
----
-
-## Features
-
-- Real-time hand tracking using a webcam.
-- Visualization of 21 hand landmarks and their connections.
-- Extract landmark coordinates in pixel values.
-- Modularized code with a reusable `handDetector` class.
+Welcome to the **Hand Tracking Module**! This project demonstrates real-time hand tracking using OpenCV and MediaPipe. 🧑‍💻🎥 
 
 ---
 
-## Installation
+## ✨ Features
 
-Ensure you have Python installed, then install the required packages:
+✔️ Real-time hand tracking using a webcam.  
+✔️ Visualizes 21 hand landmarks and their connections.  
+✔️ Extracts precise landmark positions in pixel coordinates.  
+✔️ Modularized code with a reusable `handDetector` class.  
+
+---
+
+## 📦 Installation
+
+Make sure Python is installed, then run the following to set up dependencies:  
 
 ```bash
 pip install opencv-python mediapipe
