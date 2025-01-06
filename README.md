@@ -1,6 +1,6 @@
 # 🖐️ Hand Tracking Module
 
-Welcome to the **Hand Tracking Module**! This project demonstrates real-time hand tracking using OpenCV and MediaPipe. 🧑‍💻🎥 
+Welcome to the Hand Tracking Module! This project demonstrates real-time hand tracking using OpenCV and MediaPipe. 🧑‍💻🎥 
 
 ---
 
