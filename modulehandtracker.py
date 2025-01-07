@@ -44,13 +44,13 @@ class handDetector:
                         img, handLms, self.mphands.HAND_CONNECTIONS)
 
         # FPS Calculation
-        currTime = time.time()
-        fps = 1 / (currTime - self.prevTime) if (currTime - self.prevTime) > 0 else 0
-        self.prevTime = currTime
+        #currTime = time.time()
+        #fps = 1 / (currTime - self.prevTime) if (currTime - self.prevTime) > 0 else 0
+        #self.prevTime = currTime
 
         # Display FPS on the image
-        cv2.putText(img, f'FPS: {int(fps)}', (20, 50), cv2.FONT_HERSHEY_SIMPLEX, 1,
-                    (0, 255, 0), 2)
+        #cv2.putText(img, f'FPS: {int(fps)}', (20, 50), cv2.FONT_HERSHEY_SIMPLEX, 1,
+        #            (0, 255, 0), 2)
 
         return img
 
