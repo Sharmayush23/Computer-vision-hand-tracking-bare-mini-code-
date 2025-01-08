@@ -7,3 +7,4 @@ Pillow       # Image manipulation library compatible with Python 3.12
 pycaw
 comtypes
 streamlit
+opencv-python-headless
