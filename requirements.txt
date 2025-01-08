@@ -4,3 +4,6 @@ numpy         # Ensures compatibility with Python 3.12
 matplotlib      # Visualization library compatible with Python 3.12
 scipy          # Enhanced scientific computation for Python 3.12
 Pillow       # Image manipulation library compatible with Python 3.12
+pycaw
+comtypes
+streamlit
